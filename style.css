@@ -54,6 +54,10 @@ main {
     flex-direction: column;
 }
 
+.results h2 {
+    text-align: center;
+}
+
 .results p {
     padding-top: 1rem;
     text-align: center;
